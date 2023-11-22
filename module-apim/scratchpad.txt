@@ -1,0 +1,15 @@
+1. Client_manager credentials from SSO
+
+
+2. Client ID for Mobile application 
+
+
+3. Client Secret for Mobile application 
+
+
+
+4. Client ID for Partner Portal
+
+
+5. Client Secret for Partner Portal
+
